@@ -63,11 +63,11 @@ module.exports = {
 
     const addonsToAdd = {
       packages: [
-        {name: 'ember-cli-frost-blueprints', target: '^1.0.0'},
+        {name: 'ember-cli-frost-blueprints', target: '^4.0.0'},
         {name: 'ember-cli-mocha', target: '^0.14.0'},
-        {name: 'ember-hook', target: '^1.3.5'},
+        {name: 'ember-hook', target: '^1.4.2'},
         {name: 'ember-sinon', target: '^0.7.0'},
-        {name: 'ember-test-utils', target: '^4.0.0'}
+        {name: 'ember-test-utils', target: '^7.0.1'}
       ]
     }
 

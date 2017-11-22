@@ -1,3 +1,11 @@
+# 3.0.0 (2017-11-22)
+* **Updated** to version 7 of `ember-test-utils`
+* **Updated** to version ^1.4.2 of `ember-hook`
+* **Updated** to version 4 of `ember-cli-frost-blueprints`
+* **Removed** unneeded `chai` devDependency
+* **Added** `bower` as a devDependency since it is no longer provide by Ember CLI
+* **Updated** to ignore line length linting of `CHANGELOG.md`
+
 # 2.1.2 (2017-06-27)
 * **Updated** the build scripts to publish under `ember-default`
 Listing changes that were not picked up from previous PR: https://github.com/ciena-frost/ember-frost-test/pull/33
